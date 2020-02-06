@@ -15,7 +15,7 @@ const FILES_TO_CACHE = [
     "/assets/icon-512x512.png",
 ];
 const CACHE_NAME = "static-cache-v2";
-const DATA_CACHE_NAME = "data-cahce-v1";
+const DATA_CACHE_NAME = "data-cache-v1";
 
 // (1) Installing the service worker and skipping the "waiting" period
 self.addEventListener("install", function(evt) {

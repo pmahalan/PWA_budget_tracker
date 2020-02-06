@@ -46,11 +46,6 @@ self.addEventListener("install", function(evt) {
     self.clients.claim();
   });
 
-// activate
-self.addEventListener("activate", function(evt) {
-
-});
-
 // fetch
 self.addEventListener("fetch", function(evt) {
     if (evt.request.url.includes("/api/")) {

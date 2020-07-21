@@ -1,5 +1,5 @@
 # PWA_budget_tracker
-Homework #18 -- PWA, online + offline budget tracker
+Progressive Web Application (PWA), online + offline budget tracker
 
 ### Heroku Deployed Application
 https://arcane-springs-66515.herokuapp.com/
